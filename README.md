@@ -7,6 +7,8 @@
 - The dataset consists of x and y coordinates of 15 facial key points.
 - Input images are 96X96 pixels.
 - Images consist of only one color channel(grat-scale images)
+- ![image](https://github.com/Vishal0199/Emotion-AI/assets/52014177/0adfe218-a647-4f6b-a595-f520ff7f730f)
+
 
 # Part 2: FACIAL EXPRESSION (EMOTION) DETECTION
 - Dataset - https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
