@@ -1,4 +1,4 @@
-# Facial-Keypoint-Detection-and-Facial-Emotion-Recognition
+# Facial-Keypoint-Detection-and-Facial-Emotion-Recognition (Emotion-AI)
 - Emotion AI is a branch of AI that allow computers to understand human non-verbal cues such as body language and facial expressions.
 - The aim of this project is to predict the facial keypoint of face image and also classify people's emotions based on their face images.
 # Part 1: KEY FACIAL POINTS DETECTION
