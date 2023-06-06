@@ -7,7 +7,7 @@
 - The dataset consists of x and y coordinates of 15 facial key points.
 - Input images are 96X96 pixels.
 - Images consist of only one color channel(grat-scale images)
-- ![image](https://github.com/Vishal0199/Emotion-AI/assets/52014177/0adfe218-a647-4f6b-a595-f520ff7f730f)
+![image](https://github.com/Vishal0199/Emotion-AI/assets/52014177/0adfe218-a647-4f6b-a595-f520ff7f730f)
 
 
 # Part 2: FACIAL EXPRESSION (EMOTION) DETECTION
@@ -15,3 +15,5 @@
 - The second model will classify people's emotion.
 - Data contains images that belong to 5 categories
 - 0=Angry, 1=Disgust, 2=Sad, 3=Happy, 4=Surprise
+![image](https://github.com/Vishal0199/Emotion-AI/assets/52014177/25964b59-30a4-4802-87d5-8243f25a8b77)
+
