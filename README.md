@@ -7,3 +7,9 @@
 - The dataset consists of x and y coordinates of 15 facial key points.
 - Input images are 96X96 pixels.
 - Images consist of only one color channel(grat-scale images)
+
+# Part 2: FACIAL EXPRESSION (EMOTION) DETECTION
+- Dataset - https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+- The second model will classify people's emotion.
+- Data contains images that belong to 5 categories
+- 0=Angry, 1=Disgust, 2=Sad, 3=Happy, 4=Surprise
